@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity, FullStack, Quantum Computing, and AI/ML**
 
-- 💬 Ask me about **opencv, tensorflow,**
+- 💬 Ask me about **opencv, tensorflow, or even cybersecurity/development questions**
 
 - 📫 How to reach me **avinrobles@gmail.com**
 
