@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/robles-resume](https://tinyurl.com/robles-resume)
 
-- ⚡ Fun fact **I love Computer Science ;3**
+- ⚡ Fun fact **I have a love/hate relationship with Computer Science ;3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
