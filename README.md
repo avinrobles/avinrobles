@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avin Robles</h1>
-<h3 align="center">An aspiring Cybersecurity individual and Developer</h3>
+<h3 align="center">An aspiring Cybersecurity Professional and Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinrobles&label=Profile%20views&color=0e75b6&style=flat" alt="avinrobles" /> </p>
 
