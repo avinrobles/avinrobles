@@ -55,6 +55,12 @@
   <img src="https://streak-stats.demolab.com?user=avinrobles&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinrobles&show_icons=true&locale=en&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinrobles&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+
 ---
 
 ## ⚡Featured Projects
