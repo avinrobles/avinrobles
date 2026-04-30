@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Analyst;Software+Developer;AI%2FML+Explorer;Future+Security+Engineer&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Cybersecurity+Analyst;Driven+Software+Developer;AI%2FML+Explorer;Future+Security+Engineer&center=true&width=500&height=45">
   </a>
 </h3>
 
