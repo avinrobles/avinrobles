@@ -36,7 +36,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,arduino,aws,azure,bash,c,cpp,css,docker,flask,git,gitlab,html,java,js,jenkins,linux,mongodb,mysql,nextjs,nodejs,opencv,php,postman,poweshell,py,raspberrypi,react,ubuntu,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=anaconda,arduino,aws,azure,bash,c,cpp,css,docker,flask,git,gitlab,html,java,js,jenkins,linux,mongodb,mysql,nextjs,nodejs,opencv,php,postman,powershell,py,raspberrypi,react,ubuntu,vscode,windows" />
 </p>
 
 ---
