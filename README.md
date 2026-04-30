@@ -17,6 +17,7 @@
 ## 🚀 Portfolio & Presence
 
 * 🌐 **Portfolio Website**: *Coming Soon*
+* 💻 **Facebook**: https://www.facebook.com/avinnicolo/
 * 💼 **LinkedIn**: www.linkedin.com/in/avinrobles-282934224
 * 📸 **Instagram**: https://instagram.com/the.avinturer
 
@@ -35,16 +36,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,php,react,nodejs,django,mongodb,mysql,linux,git,azure,tensorflow,pytorch,opencv" />
-</p>
-
----
-
-## 🧑‍💻 Connect With Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/avinrobles-282934224"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/the.avinturer"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <img src="https://skillicons.dev/icons?i=anaconda,arduino,aws,azure,bash,c,cpp,css,docker,flask,git,gitlab,html,java,js,jenkins,linux,mongodb,mysql,nextjs,nodejs,opencv,php,postman,poweshell,py,raspberrypi,react,ubuntu,vscode,windows" />
 </p>
 
 ---
@@ -64,20 +56,20 @@
 * Facial Emotion Recognition (FER)
 * Text Emotion Recognition (TER)
 
-### 🔐 Cybersecurity CLI Scanner
+### 🐍 Python Scripts
 
-* VirusTotal API integration
-* File + URL scanning
-* Secure API handling
+* VirusTotal CLI Scanner
+* Password Strength Analyzer
+* Port Scanner
 
 ---
 
-## 💀 Experience and Currently Learning
+## 💡 Experience and Currently Learning
 
-* Integrations Engineering
+* Integrations/DevOps Engineering
 * System Administration
-* SOC Learning Path
-* Security Engineering Learning Path
+* Security Analyst/Engineering
+* Cloud
 
 ---
 
